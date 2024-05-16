@@ -83,5 +83,10 @@ public class Operadores {
             System.out.println("Falso");
         }
         
+        if (condicao1 || condicao2) {
+            System.out.println("Verdadeiro");
+        } else {
+            System.out.println("Falso");
+        }
     }
 }
