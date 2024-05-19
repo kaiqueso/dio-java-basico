@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "dio-java-basico_13bad36a"
+        },
+        {
+            "type": "java",
+            "name": "ExempoExcecao",
+            "request": "launch",
+            "mainClass": "ExempoExcecao",
+            "projectName": "dio-java-basico_13bad36a"
+        },
+        {
+            "type": "java",
+            "name": "Aboutme",
+            "request": "launch",
+            "mainClass": "Aboutme",
+            "projectName": "dio-java-basico_13bad36a"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",
